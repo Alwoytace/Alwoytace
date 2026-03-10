@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaoyue (@Alwoytace), an incoming PhD researcher at Aston University.
+- 👋 Hi, I’m Shaoyue, an incoming PhD researcher at Aston University.
 - 👀 I’m interested in Brain-Computer Interfaces (EEG), Embodied AI (ROS/Robotics), and building practical LLM-powered tools (like my automated AI Paper Bot 🤖).
 - 🌱 I’m currently learning ROS 2 for robotics, advanced Machine Learning for signal processing, and how to survive the UK wind with proper Gore-Tex outfits 🌧️.
 - 💬 Ask me about EEG data analysis, Python automation, or how to balance hardcore academic research with Pilates.
